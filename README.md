@@ -12,7 +12,7 @@ A modern, easy-to-use website for a custom wood and glass business. Browse and e
 
 ---
 
-## Tech Stack (In Simple Terms)
+## Tech Stack
 
 This project uses modern tools to make it fast, reliable, and easy to use:
 
