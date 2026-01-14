@@ -14,7 +14,7 @@ I'm a passionate developer interested in building innovative solutions and learn
 ## 📫 How to reach me
 
 - GitHub: [@tommorara](https://github.com/tommorara)
-- Email: [Contact me](mailto:tommorara@example.com)
+- LinkedIn: [Connect with me](https://linkedin.com/in/tommorara)
 
 ## 📊 GitHub Stats
 
