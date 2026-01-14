@@ -6,7 +6,7 @@ A modern, easy-to-use website for a custom wood and glass business. Browse and e
 [🌐 View Live Site](https://kimathi-woodtech-and-glass.netlify.app/)
 
 <p align="left">
-  <img src="image1" alt="Kimathi Woodtech & Glass - Featured Products Screenshot" width="80%" style="border-radius:8px; box-shadow:0 2px 14px #eee;">
+  <img src="https://res.cloudinary.com/dpzq6ueyg/image/upload/v1768373450/Screenshot_2026-01-14_091410_gmazh2.png" alt="Kimathi Woodtech & Glass - Featured Products Screenshot" width="80%" style="border-radius:8px; box-shadow:0 2px 14px #eee;">
 </p>
 <p align="center"><em>Featured products page showcasing vanity sets and mirrors.</em></p>
 
