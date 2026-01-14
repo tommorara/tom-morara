@@ -6,7 +6,7 @@ Browse custom furniture, mirrors, glassware, and vanity sets in a clean, elegant
 
 [🌐 View Live Site](https://kimathi-woodtech-and-glass.netlify.app/)
 
-<p align="center">
+<p align="left">
   <img src="image1" alt="Kimathi Woodtech & Glass - Featured Products Screenshot" width="80%" style="border-radius:8px; box-shadow:0 2px 14px #eee;">
 </p>
 <p align="center"><em>Featured products page showcasing vanity sets and mirrors.</em></p>
